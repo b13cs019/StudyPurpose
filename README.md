@@ -1,2 +1,3 @@
 # StudyPurpose
-This repo for lesrning purpose
+This repo for lesrning purpose fro sanjiv only
+
