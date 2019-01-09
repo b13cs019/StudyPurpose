@@ -4,6 +4,3 @@ This repo for lesrning purpose fro sanjiv only
 how are u sanjana. u don't have toime
 hy dude, how are you...
 
-ehy miss how are you.. it's fine
-Now i ma going to  deleteing exmaple branch 
-
